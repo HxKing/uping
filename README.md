@@ -13,7 +13,7 @@
 
 
 ##本项目所涉及知识
-[不会GCD的程序猿，不是好iOS程序猿](http://www.jianshu.com/notebooks/4812393/latest)
+[不会GCD的程序猿，不是好iOS程序猿](http://www.jianshu.com/p/6a4a356a2071)
 
 [pop数字动画](http://www.code4app.com/ios/Pop-demo/537d5aad933bf0e87a8b501d)
 
