@@ -19,7 +19,7 @@
 
 [pop数字动画](http://www.code4app.com/ios/Pop-demo/537d5aad933bf0e87a8b501d)
 
-[数据持久化 SQLite](http://blog.devtang.com/2012/04/22/use-fmdb/)
+[数据持久化 SQLite](http://www.jianshu.com/p/33e1d359f123)
 
 
 
