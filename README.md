@@ -15,6 +15,8 @@
 ##本项目所涉及知识
 [不会GCD的程序猿，不是好iOS程序猿](http://www.jianshu.com/p/6a4a356a2071)
 
+[ios高效添加圆角](https://bestswifter.com/efficient-rounded-corner/)
+
 [pop数字动画](http://www.code4app.com/ios/Pop-demo/537d5aad933bf0e87a8b501d)
 
 [数据持久化 SQLite](http://blog.devtang.com/2012/04/22/use-fmdb/)
